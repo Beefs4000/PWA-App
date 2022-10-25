@@ -5,10 +5,10 @@
   <p align="center">
     For this project I was tasked with making an application that allows the user to type and edit in this text editor. The application saves the text and can be reopened, keeping the previous text. The user can also install this application and use it offline. Multiple new technologies were used with structures such as webpack, service worker and client/server structure.
     <br />
-    <a href=""><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Beefs4000/PWA-App"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://project-pwa-app.herokuapp.com/">View Demo</a>
     ·
     </p>
 </div>
